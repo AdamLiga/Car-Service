@@ -14,9 +14,3 @@ svg{
 .main-navbar svg{
     cursor: pointer;
 }
-
-.bg-image {
-    /* background-image: url('../img/pexels-19x14-8478248.jpg'); */
-    background-image: url('./img/pexels-19x14-8478248.jpg');
-    background-color: aqua;
-}
