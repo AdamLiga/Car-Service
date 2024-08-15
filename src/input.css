@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    box-sizing: border-box;
+}
+
+svg{
+    display: inline-flex;
+}
+
+.main-navbar li,
+.main-navbar svg{
+    cursor: pointer;
+}
+
