@@ -685,6 +685,14 @@ video {
   width: 100%;
 }
 
+.w-\[50\%\] {
+  width: 50%;
+}
+
+.w-1\/2 {
+  width: 50%;
+}
+
 .max-w-60 {
   max-width: 15rem;
 }
@@ -1009,8 +1017,9 @@ svg{
   display: inline-flex;
 }
 
-.main-navbar li,
-.main-navbar svg{
+.main-nav li,
+.main-nav svg,
+.middle-side-main-nav li{
   cursor: pointer;
 }
 

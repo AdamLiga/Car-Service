@@ -10,7 +10,8 @@ svg{
     display: inline-flex;
 }
 
-.main-navbar li,
-.main-navbar svg{
+.main-nav li,
+.main-nav svg,
+.middle-side-main-nav li{
     cursor: pointer;
 }
